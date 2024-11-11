@@ -1,6 +1,6 @@
 # MyBill - Invoice App
 
-MyBill is a simple, responsive invoice management application built with HTML, Tailwind CSS, and JavaScript. This application allows users to manage items, generate invoices, and calculate totals with tax.
+MyBill is a simple invoice management application built with HTML, Tailwind CSS, and JavaScript. This application allows users to manage items, generate invoices, and calculate totals with tax.
 
 ## Demo
 
